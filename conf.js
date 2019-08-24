@@ -19,6 +19,8 @@ jsproxy_config({
         'node-aliyun-hk-0.etherdream.com:8443': 1,
         'node-aliyun-hk-1.etherdream.com:8443': 1,
         'node-aliyun-hk-2.etherdream.com:8443': 1,
+        'node-aliyun-hk-3.etherdream.com:8443': 1,
+        'node-aliyun-hk-4.etherdream.com:8443': 1,
       }
     },
     'demo-sg': {
